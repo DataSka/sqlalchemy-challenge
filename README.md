@@ -31,3 +31,8 @@ https://stackoverflow.com/questions/4186062/sqlalchemy-order-by-descending#:~:te
 
 How to find avg, min, max
 https://stackoverflow.com/questions/7133007/sqlalchemy-get-max-min-avg-values-from-a-table
+
+
+https://www.geeksforgeeks.org/sqlalchemy-db-session-query/
+https://docs.sqlalchemy.org/en/14/orm/query.html
+https://www.geeksforgeeks.org/how-to-use-avg-and-sum-in-sqlalchemy-query/
